@@ -5,8 +5,7 @@
 
 # How to run
 
-npm clean-install
-npm run start:server
+npm clean-install npm run start:server
 
 # How to test
 
@@ -42,10 +41,13 @@ See the task in the [TASK.md](./TASK.md) file.
 
 After you've completed the task, please
 
-1. commit your changes,
-2. zip the repo without the node_modules,
-3. send the archive back to the email that you got it from
+1. Commit your changes
+2. Send the new version of the repo back to the email that you got it from
 
-The time you spent on the task is accounted for, so hurry up 🙌🏼
+We will not judge the implementation details, performance, code style, variable names, etc.
+But we will judge the speed. 
+(And the solution must meet the requirements of course 😊)
+
+Hurry up and good luck! 🙌🏼
 
 # 💜
